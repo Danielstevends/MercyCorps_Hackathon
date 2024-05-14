@@ -13,7 +13,7 @@ To fully use this code, you need 4 API keys:
 3. Gas Price API
 4. GoogleSheet API
 
-The input fron the user are:
+The input from the user are:
 1. Location of transit
 2. Emission per km (plane and truck)
 3. Plane and truck distance per liter
